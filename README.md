@@ -12,4 +12,4 @@
 - [Завдання 3](untitled/src/task3/README.md)
 - [Завдання 4](untitled/src/task4/README.md)
 - [Завдання 5](untitled/src/task5/README.md)
-- [Завдання 6]()
+- [Завдання 6](untitled/src/task6/README.md)
